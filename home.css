@@ -1304,15 +1304,15 @@ aside a:focus
 .player-line
 {
 	
-	/*margin-left:-37.5%;*/
+	margin-left:-37.5%;
 	width: 100%;
 	display: flex;
-	/*margin-right: 16%;*/
+	margin-right: 16%;
 }
 
 .border-player-line
 {
-	/*display: inline-block;*/
+	display: inline-block;
 	margin:5px 15px 0px;
 	width:100%;
 	height: 0px;
@@ -1349,12 +1349,8 @@ aside a:focus
 .last-features
 {
 	display: flex;
-	/*border:2px solid white;*/
-/*	margin-top: 25px;*/
 	color: grey;
 	width: 25%;
-	/*padding: 2px;*/
-	/*margin-left:14%;*/
 	justify-content: space-evenly;
 	align-items: center;
 	font-size: 20px;
